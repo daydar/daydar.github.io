@@ -13,11 +13,10 @@ cd docs/.vuepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
-git checkout -b production
 git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
-git push -f git@github.com:daydar/daydar.github.io.git production
+git push -f git@github.com:daydar/daydar.github.io.git master:production
 
 cd -

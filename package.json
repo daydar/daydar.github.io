@@ -1,0 +1,16 @@
+{
+  "name": "daydar.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daydar/daydar.github.io.git",
+  "author": "Deniz Aydar <deniz.aydar@gmx.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:deploy": "sh deploy.sh"
+  }
+}

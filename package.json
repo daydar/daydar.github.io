@@ -8,6 +8,9 @@
   "devDependencies": {
     "vuepress": "^1.8.2"
   },
+  "dependencies": {
+    "vuepress-theme-seeker": "^1.0.9"
+  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",

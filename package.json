@@ -9,7 +9,7 @@
     "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "vuepress-theme-seeker": "^1.0.9"
+    "vuepress-theme-casper": "^3.0.1"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",

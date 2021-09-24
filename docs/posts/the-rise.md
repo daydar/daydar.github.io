@@ -11,11 +11,7 @@ categories:
 readingTime: 10 Minutes
 ---
 
-THIS IS A PLACEHOLDER
 
-Does anybody else feel jealous and aroused and worried? Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you. Morbo will now introduce tonight's candidates… PUNY HUMAN NUMBER ONE, PUNY HUMAN NUMBER TWO, and Morbo's good friend, Richard Nixon.
-
-<!-- more -->
 
 Goodbye, cruel world. __Goodbye, cruel lamp.__ *Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords.* Cruel though they may be… Now what?
 

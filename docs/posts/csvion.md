@@ -18,7 +18,7 @@ So in short, CSVion is intended to make CSV files callable and queryable via a g
 
 The purpose of this post is to record the progress of the project implementation and begins with the background.
 
-While reading another article about exploits in image processing, I came across the programming language Rust, which could counteract this by thread safety. This seemed interesting and I decided to create a project written in Rust to get familiar with this language. Since I lost the link to the article, I can't elaborate on this aspect but it was the inital start point for this project. 
+While reading another article about exploits in image processing, I came across the programming language Rust, which could counteract this by thread safety. This seemed interesting and I decided to create a project written in Rust to get familiar with this language. Since I lost the link to the article, I can't elaborate on this aspect but it was the inital start point for this project. (**EDIT** I found later the post: [fuzzing ImageIO](https://googleprojectzero.blogspot.com/2020/04/fuzzing-imageio.html))
 But like any interest, I needed a hook for what the project should be about.
 
 For this I thought of another project which would have the appropriate scope. The background with this project was that I once needed an API for a mobile app to develop against. 

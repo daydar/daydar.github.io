@@ -8,7 +8,7 @@ tags:
   - csvion
 categories:
   - projects
-readingTime: 3 Minutes
+readingTime: 2 Minutes
 author:
   link: /about
   name: Deniz Aydar
